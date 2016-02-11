@@ -33,6 +33,7 @@ public class Grid {
 
 	public static void main(String[] args) {
 		new Grid().input();
+		System.out.println("changes done");
 		
 	}
 }
